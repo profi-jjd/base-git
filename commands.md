@@ -228,9 +228,10 @@
 
 Ветвления
 
-    Git (VCS->Git) ->  Branches
+    Git (VCS->Git) ->  Some Branches
 
 Инициализация репозитория + создание репозитория на гитхабе + отправка изменений на гитхаб:
+
 
     Git ->  GitHub -> Share Project On GitHub 
     VCS -> Git -> Share Project On GitHub 
